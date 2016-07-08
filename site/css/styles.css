@@ -1,0 +1,32 @@
+
+body {
+	font-family: 'Kalam', cursive;
+}
+
+.container .navbar-header {
+	height: 70px;
+}
+
+
+#nav-list {
+	background:rgba(100,100,100, 0.3);
+}
+
+.navbar-header {
+	margin-top: 20px;
+}
+
+#brand {
+	color:  #337ab7;
+	font-size: 2em;
+}
+
+.container-fluid {
+	margin: 40px 20px 40px;
+	border: #456f95 solid;
+	background-color: #c3f8fd;
+	padding: 20px 20px 20px;
+	text-align: center;
+	font-size: 1.3em;
+
+}
